@@ -1,5 +1,5 @@
 {
-  "name": "imageops",
+  "name": "imgops",
   "version": "3.0.2",
   "description": "",
   "main": "index.mjs",
@@ -9,7 +9,7 @@
     "release": "cross-env RELEASE_MODE=true np --no-tests"
   },
   "bin": {
-    "imageops": "index.mjs"
+    "imgops": "index.mjs"
   },
   "keywords": [],
   "author": "",
